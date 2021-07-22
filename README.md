@@ -26,8 +26,8 @@ This is just a project for the training I attended. The prices stated came from 
 
 ## Language and Tools
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Any text editor (e.g. VS Code, Sublime)
 
