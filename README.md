@@ -30,3 +30,9 @@ The prices stated came from different stores and resources. These are just figur
 - CSS3
 - JavaScript
 - Any text editor (e.g. VS Code, Sublime)
+
+<br>
+
+## Published
+
+[Kickin' Joy website](https://rynrsts.github.io/KickinJoy/)
