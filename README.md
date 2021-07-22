@@ -14,7 +14,7 @@ Creative Web Design is a training I took on April 4 – 19, 2018 at Informatics 
 
 ### Note
 
-The prices stated came from different stores and resources. These are just figures, and some of it may be higher or lower at some point. If you want to buy Vans shoes, please see legit stores and resources, and do not refer to the prices stated.
+This is just a project for the training I attended. The prices stated came from different stores and resources. These are just figures, and some of it may be higher or lower at some point. If you want to buy Vans shoes, please see legit stores and resources, and do not refer to the prices stated.
 
 <br>
 
